@@ -1,0 +1,6 @@
+fruta = input ("Digite a fruta")
+if  Fruta == ('Banana')
+    print ("Kg da Banana é R$5,23")
+elif fruta == ('Maçã')
+    print ("Kg da Maçã é R$7,59")
+else ("Desculpe, não temos essa fruta")
